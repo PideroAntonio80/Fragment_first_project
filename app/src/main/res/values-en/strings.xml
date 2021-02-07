@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Fragment_First_Project</string>
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="landscape1_fragment_title">Landscape 1</string>
+    <string name="landscape2_fragment_title">Landscape 2</string>
+    <string name="landscape3_fragment_title">Landscape 3</string>
+    <string name="landscape3_title">Sea</string>
+    <string name="landscape2_title">Forest</string>
+    <string name="landscape1_title">Mountains</string>
+    <string name="landscape1_description">Amazing and beautiful summits, lonely places, wild, soul mirror, a real life school. A lot of adventures written on it, passion, happiness… Just the best life</string>
+    <string name="landscape2_description">Ancient, mysterious, wise, beautiful, Many species home, Kids and adults garden and lovely place for everyone</string>
+    <string name="landscape3_description">Large, quiet but wild and aggressive , ancient place, Lots of adventures on it, mysterious, beautiful unknown, honest, pure…</string>
+    <string name="button1_title">Landscape 1</string>
+    <string name="button2_title">Landscape 2</string>
+    <string name="button3_title">Landscape 3</string>
+</resources>

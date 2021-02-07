@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Fragment_First_Project</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="landscape1_fragment_title">PAISAJE 1</string>
+    <string name="landscape2_fragment_title">Paisaje 2</string>
+    <string name="landscape3_fragment_title">Paisaje 3</string>
+    <string name="landscape3_title">Mar</string>
+    <string name="landscape2_title">Bosque</string>
+    <string name="landscape1_title">Montaña</string>
+    <string name="landscape1_description">Majestuosas y hermosas cumbres, solitarias, salvajes, espejo del alma, escuela de vida. Escenario de aventuras, pasión, alegria incondicional, pureza... La mejor vida que existe</string>
+    <string name="landscape2_description">Ancestral, misterioso, sabio, hermoso, hogar de incontables criaturas, jardin de numerosas miradas infantiles y nido de amor de cualquier especie</string>
+    <string name="landscape3_description">Inmenso, tranquilo y descontrolado a la vez, antiguo, fragua de increibles aventuras, proceloso, bello y desconocido, misterioso, sincero, puro...</string>
+    <string name="button1_title">Paisaje 1</string>
+    <string name="button2_title">Paisaje 2</string>
+    <string name="button3_title">Paisaje 3</string>
+</resources>
